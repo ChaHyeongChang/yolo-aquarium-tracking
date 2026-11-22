@@ -1,0 +1,4 @@
+,images,boxes,images_train,images_valid,images_test
+fish,333,2669,240,63,30
+shark,176,354,134,28,14
+stingray,124,184,91,23,10

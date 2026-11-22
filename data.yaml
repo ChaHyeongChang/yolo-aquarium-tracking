@@ -1,0 +1,8 @@
+path: /content/aquarium3
+train: train/images
+val: valid/images
+test: test/images
+names:
+  0: fish
+  1: shark
+  2: stingray

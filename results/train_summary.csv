@@ -1,0 +1,3 @@
+experiment,epochs_run,best_epoch,val_mAP50,val_mAP50-95,train_minutes
+full,60,42,0.8014,0.5224,6.4
+freeze,60,53,0.7825,0.5058,5.5
