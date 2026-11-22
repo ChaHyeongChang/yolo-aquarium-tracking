@@ -85,3 +85,9 @@ model.track("my_video.mp4", tracker="botsort.yaml", conf=0.35, save=True)
 - `videos/`: 감지·추적 결과 영상 (mp4, gif)
 - `results/`: 성능 지표, 학습 곡선, 혼동 행렬, 추적 기록
 - `data.yaml`: 학습에 사용한 데이터 설정
+
+## 참고 자료
+
+- Ultralytics YOLO (AGPL-3.0): https://github.com/ultralytics/ultralytics
+- 데이터셋: Roboflow Aquarium Combined (CC BY 4.0), https://universe.roboflow.com/brad-dwyer/aquarium-combined/dataset/2
+- 영상: Pexels, Underwater Footage (Magda Ehlers), https://www.pexels.com/video/underwater-footage-2556894/
